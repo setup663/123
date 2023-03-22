@@ -1,0 +1,11 @@
+C:\Users\student\Downloads\BMI калькулятор\bin\Debug\BMI калькулятор.exe.config
+C:\Users\student\Downloads\BMI калькулятор\bin\Debug\BMI калькулятор.exe
+C:\Users\student\Downloads\BMI калькулятор\bin\Debug\BMI калькулятор.pdb
+C:\Users\student\Downloads\BMI калькулятор\obj\Debug\BMI калькулятор.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\BMI калькулятор\obj\Debug\BMI калькулятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\BMI калькулятор\obj\Debug\BMI_калькулятор.Form1.resources
+C:\Users\student\Downloads\BMI калькулятор\obj\Debug\BMI_калькулятор.Properties.Resources.resources
+C:\Users\student\Downloads\BMI калькулятор\obj\Debug\BMI калькулятор.csproj.GenerateResource.cache
+C:\Users\student\Downloads\BMI калькулятор\obj\Debug\BMI калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\BMI калькулятор\obj\Debug\BMI калькулятор.exe
+C:\Users\student\Downloads\BMI калькулятор\obj\Debug\BMI калькулятор.pdb
